@@ -1,3 +1,5 @@
+This repo is archived and no longer maintained.
+
 # Room Calendar version notices
 
 This public repository contains version metadata for Room Calendar. It contains no application source, installers, credentials, room bookings or user data.
